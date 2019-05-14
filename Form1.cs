@@ -34,5 +34,3 @@ namespace WindowsFormsApp1
  
     }
 }
-then try
-    mmki
