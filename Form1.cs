@@ -31,5 +31,7 @@ namespace WindowsFormsApp1
         {
             this.table1TableAdapter.Fill(this.tableDataSet.Table1);
         }
+        private void Button_Edit( object sender, EditorAttribute){
+}
     }
 }
